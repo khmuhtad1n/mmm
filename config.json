@@ -1,0 +1,24 @@
+﻿{
+    "http_api": {
+        "enabled": true,
+        "host": "0.0.0.0",
+        "port": 5000
+    },
+    "database": false,
+    "views": 100,
+    "minimum": 70.0,
+    "maximum": 80.0,
+    "proxy": {
+        "category": "f",
+        "proxy_type": false,
+        "filename": false,
+        "authentication": false,
+        "proxy_api": false,
+        "refresh": 0.0
+    },
+    "background": true,
+    "bandwidth": true,
+    "playback_speed": 3,
+    "max_threads": 5,
+    "min_threads": 4
+}
